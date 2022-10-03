@@ -1,0 +1,13 @@
+.navbar .logo {
+  color: #F6F6F6;
+  font-weight: 600;
+}
+.navbar .logo .logo__gradient {
+  background-color: rgb(188, 251, 255);
+  background-image: linear-gradient(135deg, rgb(188, 251, 255) 15%, rgb(138, 192, 255) 46%, rgb(146, 150, 255) 78%, rgba(216, 186, 255, 0.37) 100%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/*# sourceMappingURL=Navbar.css.map */

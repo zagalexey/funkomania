@@ -1,0 +1,9 @@
+.products {
+  background: black;
+}
+.products__bg {
+  background-image: url("../images/img.png");
+  background-size: cover;
+}
+
+/*# sourceMappingURL=products.css.map */

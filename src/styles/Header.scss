@@ -1,0 +1,28 @@
+.header {
+
+  &__background {
+    background-image: url('../images/HeaderBackground.png');
+    background-size: cover;
+  }
+
+  h1, p {
+    font-family: TTNormsProExtraBold, serif;
+    font-style: normal;
+    color: #F6F6F6;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    -webkit-text-stroke: 1px #000000;
+  }
+
+  h1 {
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 72px;
+    font-variant: small-caps;
+  }
+
+  p {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+  }
+}

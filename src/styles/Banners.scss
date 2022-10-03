@@ -1,0 +1,21 @@
+.banners {
+
+  h2 {
+    font-family: TTNormsProExtraBold monospace;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+  }
+
+  &__left, &__right {
+    background-size: cover;
+  }
+
+  &__left {
+    background-image: url("../images/BannerLeftBG.png");
+  }
+
+  &__right {
+    background-image: url("../images/BannerRightBG.png");
+  }
+}
